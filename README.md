@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bedirhan
+- 👀 I’m interested in music
+- 🌱 I’m currently learning C
+- 💞️ I don't know what field to work in
