@@ -1,1 +1,3 @@
 - 👋 Hi, I’m Bedirhan
+- 💬 contact kmrc.bedirhan@yandex.com
+- 💬 cantact kmrc.bedirhan@gmail.com
