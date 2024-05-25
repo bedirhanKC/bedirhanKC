@@ -1,4 +1,4 @@
 - ✇ Hi, I’m Bedirhan
-- my kaggle www.kaggle.com/bedirhankmrc
+- kaggle www.kaggle.com/bedirhankmrc
 - ☊ contact kmrc.bedirhan@gmail.com
 - ☊ contact kmrc.bedirhan@yandex.com
