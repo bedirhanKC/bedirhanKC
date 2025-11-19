@@ -40,7 +40,7 @@
 
 ---
 
-<h3 align="center">🌐 Sosyal Bağlantılar</h3>
+<h3 align="center">🌐 Social </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bedirhan-k%C3%B6m%C3%BCrc%C3%BC-246245276/">
@@ -59,7 +59,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub İstatistikleri</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bedirhanKC&theme=github-dark-dimmed&hide_border=true"/>
