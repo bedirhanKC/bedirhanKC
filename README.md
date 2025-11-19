@@ -9,32 +9,34 @@
 
 <h3 align="center">🛠️ Skills & Tech Stack</h3>
 
-<p align="center">
-  <!-- Tasarım -->
-  <img src="https://img.shields.io/badge/Design Tools-181818?style=for-the-badge&logoColor=white" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr&theme=dark" />
-  <br/><br/>
+<div align="center">
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-181818?style=for-the-badge&logoColor=white" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" />
-  <br/><br/>
+<table>
+  <tr>
+    <td align="center">
+      <h4>🎨 Design</h4>
+      <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr&theme=dark" />
+    </td>
+    <td align="center">
+      <h4>💻 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4>🔧 Languages</h4>
+      <img src="https://skillicons.dev/icons?i=c,git,github&theme=dark" />
+    </td>
+    <td align="center">
+      <h4>🤖 AI / ML</h4>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" /><br/>
+      <img src="https://img.shields.io/badge/YOLO-00CFFF?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Backend / Diğer -->
-  <img src="https://img.shields.io/badge/Other-181818?style=for-the-badge&logoColor=white" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=c,git,github&theme=dark" />
-  <br/><br/>
+</div>
 
-  <!-- AI Kütüphaneleri -->
-  <img src="https://img.shields.io/badge/AI & ML-181818?style=for-the-badge&logoColor=white" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" />
-  <br/>
-  <img src="https://img.shields.io/badge/YOLO-00CFFF?style=flat-square" />
-</p>
 
 ---
 
