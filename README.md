@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://socialify.git.ci/bedirhanKC/bedirhanKC/image?font=Source%20Code%20Pro&theme=Dark" width="700"/>
 </p>
 
+![novis v1 1](https://github.com/user-attachments/assets/6d7c162e-a3f9-4817-9449-37952a2dcbb5)
 <h2 align="center">Product Manager • Frontend Developer • AI Developer</h2>
 <p align="center">partner of an autonomous company.</p>
 
