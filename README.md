@@ -2,7 +2,7 @@
 </p>
 
 ![novis v1 1](https://github.com/user-attachments/assets/6d7c162e-a3f9-4817-9449-37952a2dcbb5)
-<img width="1920" height="621" alt="alttabs" src="https://github.com/user-attachments/assets/8947d7ed-b231-48c2-87f7-e0ae20b3e54e" />
+<img width="1920" height="621" alt="alttabs" src="https://github.com/user-attachments/assets/12fd4417-f7b4-4cd0-b53c-155a0e175e0b" />
 
 <h3 align="center">🛠️ Skills & Tech Stack</h3>
 
