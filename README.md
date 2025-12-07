@@ -4,36 +4,9 @@
 ![novis v1 1](https://github.com/user-attachments/assets/6d7c162e-a3f9-4817-9449-37952a2dcbb5)
 <img width="1920" height="621" alt="alttabs" src="https://github.com/user-attachments/assets/12fd4417-f7b4-4cd0-b53c-155a0e175e0b" />
 
-<h3 align="center">🛠️ Skills & Tech Stack</h3>
 
-<div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <h4>🎨 Design</h4>
-      <img src="https://skillicons.dev/icons?i=ae,ai,ps,pr&theme=dark" />
-    </td>
-    <td align="center">
-      <h4>💻 Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,ts&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h4>🔧 Languages</h4>
-      <img src="https://skillicons.dev/icons?i=c,git,github&theme=dark" />
-    </td>
-    <td align="center">
-      <h4>🤖 AI / ML</h4>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark" /><br/>
-      <img src="https://img.shields.io/badge/YOLO-00CFFF?style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
+<img width="1920" height="1497" alt="skills" src="https://github.com/user-attachments/assets/90fc6b31-e0b3-404b-8f1f-117456d54835" />
 
 ---
 
