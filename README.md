@@ -3,7 +3,7 @@
 
 ![novis v1 1](https://github.com/user-attachments/assets/6d7c162e-a3f9-4817-9449-37952a2dcbb5)
 <img width="1920" height="740" alt="BedirhanKomurcuAiDeveloper" src="https://github.com/user-attachments/assets/2d34dbd7-5ede-46de-b9b2-7e624ec7b3c5" />
-<img width="1920" height="1497" alt="MySkills" src="https://github.com/user-attachments/assets/6023408c-338a-4520-beab-230a60e5b4e9" />
+<img width="1920" height="1393" alt="MySkills" src="https://github.com/user-attachments/assets/af7a50ec-b28c-465d-a5e9-e734067b14a1" />
 
 
 ---
